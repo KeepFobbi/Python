@@ -875,48 +875,6 @@ QDialog{
     <string>√</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_37">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>510</y>
-     <width>61</width>
-     <height>51</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>12</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
-   </property>
-   <property name="text">
-    <string>e</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_38">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>560</y>
-     <width>61</width>
-     <height>51</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>12</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
-   </property>
-   <property name="text">
-    <string>Pi</string>
-   </property>
-  </widget>
  </widget>
  <resources/>
  <connections/>
